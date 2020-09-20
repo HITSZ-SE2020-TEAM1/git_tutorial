@@ -1,5 +1,3 @@
-PLEASE OPEN WITH UTF-8
-
 # 项目组介绍
 
 ## 队伍名称
